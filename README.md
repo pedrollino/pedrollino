@@ -2,7 +2,7 @@
 
 • 👨‍💻 I'm a front-end developer in progress.
 
-• 🌱 I’m currently learning Typescript.
+• 🌱 I’m currently learning Javascript.
 
 • 📫 Contact email: contatopedrolinofs@gmail.com
 
