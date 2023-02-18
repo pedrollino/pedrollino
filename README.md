@@ -6,7 +6,8 @@
 
 • 📫 Contact email: contatopedrolinofs@gmail.com
 
-• Projects: <a href="https://alurabook-rust.vercel.app/">Alurabooks</a>, <a href="[https://aluraplus-pedrollino.vercel.app/](https://aluraplay-eta.vercel.app/)">Aluraplay</a>, <a href="https://optimustech-ivory.vercel.app/">OptimusTech</a>.
+• Projects: <a href="https://alurabook-rust.vercel.app/">Alurabooks</a>, <a href="aluraplay-eta.vercel.app
+">Aluraplay</a>, <a href="https://optimustech-ivory.vercel.app/">OptimusTech</a>.
 
 • ⚡ Fun fact: I'm still thinking about it
 
