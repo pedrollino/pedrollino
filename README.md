@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-• 👨‍💻 I'm a front-end developer in progress.
+• 👨‍💻 I'm a react native developer in progress.
 
-• 🌱 I’m currently learning Javascript.
+• 🌱 I’m currently learning React Native.
 
 • 📫 Contact email: contatopedrolinofs@gmail.com
 
