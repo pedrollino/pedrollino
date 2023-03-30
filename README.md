@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-• 👨‍💻 I'm a react native developer in progress.
+• 👨‍💻 I'm a <strong>react native</strong> developer in progress.
 
 • 🌱 I’m currently learning React Native.
 
