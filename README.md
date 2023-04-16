@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-• 👨‍💻 I'm a <strong>react native</strong> developer in progress.
+• 👨‍💻 I'm a <strong>react</strong> developer in progress.
 
-• 🌱 I’m currently learning React Native.
+• 🌱 I’m currently learning React.
 
 • 📫 Contact email: contatopedrolinofs@gmail.com
 
