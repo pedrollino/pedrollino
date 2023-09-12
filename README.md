@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-• 👨‍💻 I'm a <strong>react</strong> developer in progress.
+• 👨‍💻 I'm a <strong>GO</strong> developer in progress.
 
-• 🌱 I’m currently learning React.
+• 🌱 I’m currently learning GO.
 
 • 📫 Contact email: contatopedrolinofs@gmail.com
 
