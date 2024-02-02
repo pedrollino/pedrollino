@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-• 👨‍💻 I'm a <strong>GO</strong> developer in progress.
+• 👨‍💻 I'm a <strong>dev</strong> developer in progress.
 
-• 🌱 I’m currently learning GO.
+• 🌱 I’m currently learning --.
 
 • 📫 Contact email: contatopedrolinofs@gmail.com
 
