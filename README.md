@@ -2,7 +2,7 @@
 
 • 👨‍💻 I'm a <strong>dev</strong> in progress.
 
-• 🌱 I’m currently learning --.
+• 🌱 I’m currently learning HTML-CSS-JS.
 
 • 📫 Contact email: contatopedrolinofs@gmail.com
 
