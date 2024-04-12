@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-• 👨‍💻 I'm a <strong>dev</strong> in progress.
+• 👨‍💻 I'm a dev<strong>react</strong> in progress.
 
 • 🌱 I’m currently learning HTML-CSS-JS.
 
