@@ -4,7 +4,7 @@
 
 • 🌱 I’m currently learning HTML-CSS-JS.
 
-• 📫 Contact email: contatopedrolinofs@gmail.com
+• 📫 Contact email: opedrollino@gmail.com
 
 • Projects: <a href="https://alurabook-rust.vercel.app/">Alurabooks</a>, <a href="https://netflix-login-phi.vercel.app/
 ">Netflix Login</a>, <a href="https://optimustech-ivory.vercel.app/">OptimusTech</a>, <a href="https://weather-indol-eight.vercel.app/">Weather</a>.
