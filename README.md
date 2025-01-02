@@ -2,7 +2,7 @@
 
 • 👨‍💻 I'm a dev <strong>react</strong> in progress.
 
-• 🌱 I’m currently learning HTML-CSS-JS.
+• 🌱 I’m currently learning React.
 
 • 📫 Contact email: opedrollino@gmail.com
 
