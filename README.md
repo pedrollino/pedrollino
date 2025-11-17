@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-• 👨‍💻 I'm a dev in progress.
+• 👨‍💻 I'm a Front-end developer
 
 • 🌱 I’m currently learning React.
 
